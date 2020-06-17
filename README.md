@@ -1,5 +1,5 @@
 # hello-world
 
-hi, this is matt. the github is like a new home to me
+Hi, this is Matt. I think the github is a new home to me.
 
-i am excited to add something new to it.
+I am so excited to add something new to it.
